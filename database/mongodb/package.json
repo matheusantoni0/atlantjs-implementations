@@ -1,0 +1,15 @@
+{
+  "name": "atlantjs-mongodb",
+  "version": "1.0.0",
+  "author": "matheusantoni0",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/mongoose": "^10.0.0",
+    "mongoose": "^7.3.2"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.97",
+    "mongodb-memory-server": "^8.13.0"
+  }
+}
